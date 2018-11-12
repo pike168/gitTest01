@@ -1,3 +1,4 @@
+//version 0.2c of main.c
 #include <stdio.h>
 #include "header.h"
 int main()

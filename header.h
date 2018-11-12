@@ -7,3 +7,8 @@ void deleteDis(void **a)
 {
 	free(a);
 }
+
+typedef struct foo
+{
+	int member;
+}foo;
